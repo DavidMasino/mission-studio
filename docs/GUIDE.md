@@ -4,7 +4,7 @@
 
 Mission Studio helps you answer three questions: **Where are we? What comes next? What needs my decision?**
 
-This guide describes the current local app. The public repository is a product preview; it does not provide an application download or a hosted account.
+Mission Studio is currently a private prototype. This guide describes the local app shown in the public preview; no public download, trial or hosted account is available yet. [Tell me if you would like to try it](https://github.com/DavidMasino/mission-studio/issues/new?template=feedback.md).
 
 ## Start with one useful result
 

@@ -1,6 +1,6 @@
 ![Mission Studio — Your work, kept together. A local planning workspace for you and your AI assistant.](assets/banner.svg)
 
-<p align="center"><a href="docs/GUIDE.md">Explore the workflow</a> · <a href="docs/ROADMAP.md">Direction & status</a> · <a href="https://github.com/DavidMasino/mission-studio/issues/new?template=feedback.md">Share feedback</a></p>
+<p align="center"><a href="docs/GUIDE.md">Explore the workflow</a> · <a href="docs/ROADMAP.md">Direction & status</a> · <a href="https://github.com/DavidMasino/mission-studio/issues/new?template=feedback.md">Interested in trying it?</a></p>
 
 ![Mission Studio Home, showing the project goal, next action and saved progress in a fictional website project](assets/home.jpg)
 
@@ -46,7 +46,7 @@ The longer-term idea includes working with colleagues as well as AI assistants. 
 
 ## Current status
 
-**Public project preview · actively developed through my own projects.**
+**Private prototype · actively developed through my own projects.**
 
 This repository contains screenshots, a workflow guide and the project's direction. It does not contain the application source or an installable release. Open-source licensing and commercial availability have not been decided.
 
@@ -54,10 +54,12 @@ The current implementation uses Python and vanilla HTML, CSS and JavaScript on m
 
 [What works now and what comes next →](docs/ROADMAP.md)
 
-## Would this help your workflow?
+## Would you like to try Mission Studio?
 
-I am interested in how you organise projects with AI, where context gets lost, and what would make a shared plan useful to you.
+It’s currently a **private prototype**. No public download or trial is available yet; I’m gathering interest.
 
-[Share a use case or suggestion](https://github.com/DavidMasino/mission-studio/issues/new?template=feedback.md). Please use fictional examples and leave out private project information.
+Based on this preview, tell me how you’d use it and what you’d want to try. You can share your interest through GitHub or reply to my post on X.
+
+[Tell me you’re interested](https://github.com/DavidMasino/mission-studio/issues/new?template=feedback.md). Questions and suggestions about the preview are welcome too. Please use fictional examples and leave out private project information.
 
 Built by [David Masino](https://github.com/DavidMasino). Preview updated 9 October 2026.

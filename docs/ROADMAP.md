@@ -14,7 +14,7 @@ Updated 9 October 2026. This page separates the working local app from ideas tha
 - Shared UI/command storage with revision checks and recoverable snapshots.
 - Light, dark and system appearance with multiple colour themes.
 
-The current implementation is used in the creator's own project workflow. The public repository is a documentation and screenshot preview, with no installable application release.
+Mission Studio is a private prototype used in the creator's own project workflow. This public repository contains documentation and screenshots. No public download or trial is available yet.
 
 ## Near-term direction
 
@@ -32,8 +32,8 @@ The current implementation is used in the creator's own project workflow. The pu
 
 These are directions, not committed release dates or enabled features. Remote team accounts, cloud hosting, unattended AI execution and automatic chat synchronization are not available in the current app.
 
-## Give useful feedback
+## Interested in trying it?
 
-Describe the work you do, how you currently organise it, and one point where the process breaks down. Specific examples help more than a long list of requested features.
+I’m gathering interest in a possible future demo or private trial. Based on the preview, describe how you would use Mission Studio and what you would want to try. Questions and suggestions about the idea are welcome too.
 
-[Share feedback](https://github.com/DavidMasino/mission-studio/issues/new?template=feedback.md). Use fictional examples and do not include credentials, private records or confidential screenshots.
+[Tell me you’re interested](https://github.com/DavidMasino/mission-studio/issues/new?template=feedback.md). Use fictional examples and leave out private project information.
