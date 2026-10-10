@@ -39,17 +39,37 @@ A colleague can take part in your planning process, but the current app does not
 
 Open a mission to see its current situation and what counts as finished. Keep the next action short and useful. Add supporting evidence references and record the review and result when the work is ready.
 
+In **Plan → Missions**, use **Planned** beside All, Active, Blocked and Complete to find work that has not started. The count shows how many missions match.
+
+A next action can also carry **Decision needed**. Its decision choice and explanation are visible in **Current situation**. Saving other progress keeps that request open. To settle it, explicitly choose that no decision remains and record what you decided and why. This planning decision is separate from accepting an evidence review.
+
 A mission's **status** describes where the work stands. Its **outcome** describes what it found. An investigation can be complete even when the result is negative or inconclusive. Completion requires recorded evidence, an accepted review, an outcome and completed dependencies.
 
 Evidence entries are references to supporting material. Mission Studio does not fetch or independently verify that material. A reviewer name is a recorded label; it does not prove independent review.
 
 ## Review a proposed change
 
-Open **Updates** when there is a suggestion or a proposed plan to review. Compare the saved plan with the proposed changes, including exact week dates and the reason for the move. Mission references such as **M01** appear beside proposal titles so you can follow the same item through the details.
+Open **Updates → Suggestions** to review a suggested change. The card shows the full recorded reason and a comparison of the previous and proposed values. Project goals, mission goals, descriptions and completion criteria are distinguished from week moves. A schedule-only suggestion explicitly says the mission's goal, description and completion criteria stay the same. Mission references such as **M01** help you follow the same item through the details.
 
-For an automatic date proposal, **Accept & update plan** saves the reviewed week changes. **Keep current plan** retains the existing dates. Assistant suggestions also offer a route to request changes.
+After acceptance, the comparison shows the changes actually applied, including any adjustments made during review. The original suggestion and the decision note remain available. If the older value was not recorded with a suggestion, the comparison says so.
+
+In **Updates → To review**, an automatic date proposal offers **Accept & update plan** to save the reviewed week changes. **Keep current plan** retains the existing dates. Assistant suggestions also offer a route to request changes.
 
 Automatic date proposals are limited calendar adjustments within an active cycle. They do not resolve blockers, authorize new work or prove the workload fits your time. Opening the app does not silently move missions. Unknown effort stays unknown.
+
+## Follow a goal change over time
+
+The plan shows the **current goal** and the **latest accepted goal change** together. The accepted change includes its previous and accepted goals, the full recorded reason and its chronology:
+
+- **Previous goal recorded:** the saved date when reliable history supports it. If that date is unavailable, it is shown as unknown.
+- **Change suggested:** when the suggestion was recorded and its recorded source.
+- **Accepted and applied:** when the accepted changes were saved and who or what was recorded as making that decision.
+
+Dates include a clear timezone. A suggestion's date is not used as the previous goal's original date, and a pending suggestion has no acceptance date. Source and decision-maker labels are recorded information; they do not authenticate a person or prove independent review.
+
+![A fictional goal change with its reason and separate chronological dates](../assets/goal-history.png)
+
+This is the history of an accepted suggestion, not a complete history of every goal edit. A later direct edit or restore may leave the current goal different from that accepted goal. The historical reason remains attached to the accepted change; it is not presented as the reason for a later goal. Direct edits do not require a suggestion reason.
 
 ## Prepare a weekly summary
 
@@ -86,4 +106,4 @@ Before copying a whole-workspace backup, stop the local service and any assistan
 
 A clearer daily focus, easier assistant onboarding and possible team workflows are directions to explore. They are not promises of a release or currently available features. See [direction and status](ROADMAP.md).
 
-Guide checked against the local app on 9 October 2026. All pictured project content is fictional.
+Guide updated 10 October 2026. All pictured project content is fictional.

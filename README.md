@@ -15,7 +15,7 @@ I built Mission Studio to keep that plan together. I can update it myself, and a
 - **See the next step.** Home brings together the project goal, saved next action and progress.
 - **Plan at different levels.** Connect longer-term milestones to weekly missions with clear completion criteria.
 - **Keep progress explainable.** Record results, evidence references, reviews and blockers alongside each mission.
-- **Review changes.** Inspect suggested changes and exact dates before accepting them into the plan.
+- **Review changes.** Compare previous and proposed goals, read the full reason and see whether a suggestion changes the schedule or the work itself.
 - **Look back clearly.** Prepare a factual weekly-summary draft from dated saved activity, then review and save it.
 - **Keep a durable record.** The interface and local assistant commands share one store, with saved history, backups and protection against conflicting edits.
 
@@ -37,6 +37,14 @@ Screenshots show the working local app with fictional example data. They are dem
 5. Save a weekly summary and carry the useful next step forward.
 
 [Read the preview guide →](docs/GUIDE.md)
+
+## See what changed and why
+
+The plan keeps the current goal visible alongside the latest accepted goal change: the previous goal, the accepted goal and the recorded reason. Suggestion and acceptance dates are shown separately, with their recorded sources and a clear timezone. The previous goal's recorded date appears when saved history supports it; otherwise its date is shown as unknown.
+
+![A fictional goal change showing the previous and accepted goals, the reason and the dated suggestion and decision](assets/goal-history.png)
+
+Moving a mission to another week is distinguished from changing its goal or completion criteria. You can also filter for **Planned** work and see which next actions still need a decision. Saving a progress note keeps an outstanding decision open until you explicitly settle it.
 
 ## Where it fits
 
@@ -62,4 +70,4 @@ Based on this preview, tell me how you’d use it and what you’d want to try. 
 
 [Tell me you’re interested](https://github.com/DavidMasino/mission-studio/issues/new?template=feedback.md). Questions and suggestions about the preview are welcome too. Please use fictional examples and leave out private project information.
 
-Built by [David Masino](https://github.com/DavidMasino). Preview updated 9 October 2026.
+Built by [David Masino](https://github.com/DavidMasino). Preview updated 10 October 2026.
