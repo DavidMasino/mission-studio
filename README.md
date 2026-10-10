@@ -40,9 +40,9 @@ Screenshots show the working local app with fictional example data. They are dem
 
 ## See what changed and why
 
-The plan keeps the current goal visible alongside the latest accepted goal change: the previous goal, the accepted goal and the recorded reason. Suggestion and acceptance dates are shown separately, with their recorded sources and a clear timezone. The previous goal's recorded date appears when saved history supports it; otherwise its date is shown as unknown.
+Plan keeps the current goal in view. Choose **View goal changes** to open **Updates → Suggestions → Decisions**, where accepted changes retain the previous goal, the accepted goal and the recorded reason. Suggestion and acceptance dates are shown separately, with their recorded sources and a clear timezone. The previous goal's recorded date appears when saved history supports it; otherwise its date is shown as unknown.
 
-![A fictional goal change showing the previous and accepted goals, the reason and the dated suggestion and decision](assets/goal-history.png)
+![A fictional accepted goal change in Suggestions → Decisions, showing the previous and accepted goals, the reason and the dated timeline](assets/goal-history.png)
 
 Moving a mission to another week is distinguished from changing its goal or completion criteria. You can also filter for **Planned** work and see which next actions still need a decision. Saving a progress note keeps an outstanding decision open until you explicitly settle it.
 

@@ -11,7 +11,7 @@ Updated 10 October 2026. This page separates the working local app from ideas th
 - Saved results, evidence references, reviews, blockers and activity history.
 - Assistant proposals and bounded automatic date proposals for owner review.
 - Previous and proposed goal comparisons with the full recorded reason, distinguishing schedule changes from changes to the work itself.
-- The current goal alongside its latest accepted change, with separate suggestion and acceptance dates, recorded sources and a clear timezone. An earlier goal's recorded date is shown only when supported by saved history; missing dates stay unknown.
+- The current goal on Plan with a link to goal changes in Suggestions → Decisions. Accepted changes retain their before/after comparison, reason, separate suggestion and acceptance dates, recorded sources and a clear timezone. An earlier goal's recorded date is shown only when supported by saved history; missing dates stay unknown.
 - A visible Planned filter and explicit next-action decisions, separate from evidence-review acceptance. Progress notes keep outstanding decisions open.
 - Local factual weekly-summary drafts, reviewed before saving.
 - Shared UI/command storage with revision checks and recoverable snapshots.

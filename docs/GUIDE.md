@@ -59,7 +59,7 @@ Automatic date proposals are limited calendar adjustments within an active cycle
 
 ## Follow a goal change over time
 
-The plan shows the **current goal** and the **latest accepted goal change** together. The accepted change includes its previous and accepted goals, the full recorded reason and its chronology:
+**Plan** shows the **current goal** with a **View goal changes** link. Follow it to **Updates → Suggestions → Decisions** for the saved comparisons, reasons and timelines. An accepted goal change includes its previous and accepted goals, the full recorded reason and its chronology:
 
 - **Previous goal recorded:** the saved date when reliable history supports it. If that date is unavailable, it is shown as unknown.
 - **Change suggested:** when the suggestion was recorded and its recorded source.
@@ -67,7 +67,7 @@ The plan shows the **current goal** and the **latest accepted goal change** toge
 
 Dates include a clear timezone. A suggestion's date is not used as the previous goal's original date, and a pending suggestion has no acceptance date. Source and decision-maker labels are recorded information; they do not authenticate a person or prove independent review.
 
-![A fictional goal change with its reason and separate chronological dates](../assets/goal-history.png)
+![A fictional accepted goal change in Suggestions → Decisions with its reason and separate chronological dates](../assets/goal-history.png)
 
 This is the history of an accepted suggestion, not a complete history of every goal edit. A later direct edit or restore may leave the current goal different from that accepted goal. The historical reason remains attached to the accepted change; it is not presented as the reason for a later goal. Direct edits do not require a suggestion reason.
 
